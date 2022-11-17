@@ -144,7 +144,7 @@ body {
     color: black;
     text-transform: capitalize;
     font-weight: bold;
-    margin-top: 25px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 .bullets {
@@ -169,6 +169,7 @@ body {
 .bullets span.red {
     background-color: red;
 }
+
 .restart {
     padding: 17px;
     background-color: var(--blue-color);
@@ -190,9 +191,14 @@ body {
     text-align: center;
     padding: 11px;
     color: white;
-    margin-top: 20px;
+    
     width: fit-content;
-    float: right;
+    
+}
+@media (min-width:767px){
+    .numofscore {
+        float: right;
+    }
 }
 @media (max-width: 767px) {
     .restart {
@@ -211,21 +217,32 @@ body {
         text-align: center;
         padding: 11px;
         color: white;
-        margin-top: -10px;
+        
         width: fit-content;
-        float: left;
+        margin-left: auto;
+        margin-right: auto;
         text-align: center;
     }
     .result {
-        background-color: black;
+            background-color: black;
             padding: 10px;
             font-size: 20px;
             color: white;
             color: white;
             text-transform: capitalize;
             font-weight: 500;
-            margin-top: 90px;
+            
             width: fit-content;
-            margin-bottom: 0;
+            
+            margin-left: auto;
+            margin-right: auto;
+    }
+    .answers>div {
+        margin-right: auto;
+        margin-left: auto;
+        width: 300px;
+    }
+    .header {
+          font-size: 15px;
     }
 }

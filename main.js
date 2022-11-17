@@ -33,8 +33,7 @@ function questions() {
             count.innerHTML = currentindex;
                 
                 submitButton.onclick = function () {
-                        let thechoosenAnswer = document.querySelector(".container .answer input:checked + label").innerHTML
-                        console.log(thechoosenAnswer)   
+                        let thechoosenAnswer = document.querySelector(".container .answer input:checked + label").innerHTML   
                         checkAnswer(thechoosenAnswer , data , random)
                         answerArea.innerHTML = ""
                         theQuestion.innerHTML = "";

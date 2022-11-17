@@ -242,7 +242,7 @@ body {
         margin-left: auto;
         width: 300px;
     }
-    .header {
+    .container .header {
           font-size: 15px;
     }
 }

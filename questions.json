@@ -1,0 +1,295 @@
+[
+    {
+        "title":  "We couldn't get there on time________there were traffic jam.",
+        "answer_1": "Because",
+        "answer_2":   "Because of",
+        "answer_3":   "Due to",
+        "answer_4":   "Since",
+        "right_answer":   "Because"
+    },
+    {
+        "title":  "The waste of the factory              the river.",
+        "answer_1": "Pollutes",
+        "answer_2":   "Dirties",
+        "answer_3":   "Wastes",
+        "answer_4":   "Extinct",
+        "right_answer":   "Pollutes"
+    },
+    {
+        "title":  "The man whom is running around the field is a thief.",
+        "answer_1": "True",
+        "answer_2":   "False",
+        "answer_3":   "True",
+        "answer_4":   "False",
+        "right_answer":   "False"
+    },
+    {
+        "title":  "Margie didn't learn French           she lived in Paris for a year.",
+        "answer_1": "Because",
+        "answer_2":   "Because of",
+        "answer_3":   "Before",
+        "answer_4":   "Therefore",
+        "right_answer":   "Before"
+    },
+    {
+        "title":  "The emperor        the sounds of wind blowing through the garden.",
+        "answer_1": "Saw",
+        "answer_2":   "Tasted",
+        "answer_3":   "Heard",
+        "answer_4":   "Felt",
+        "right_answer":   "Heard"
+    },
+    {
+        "title":  "he boy whom you hit is my son.",
+        "answer_1": "True",
+        "answer_2":   "False",
+        "answer_3":   "True",
+        "answer_4":   "False",
+        "right_answer":   "True"
+    },
+    {
+        "title":  "He was punished, ____________ he was guilty.",
+        "answer_1": "not",
+        "answer_2":   "as",
+        "answer_3":   "so",
+        "answer_4":   "through",
+        "right_answer":   "as"
+    },
+    {
+        "title":  "I shall not go out now ___________ it is raining heavily.",
+        "answer_1": "in spite of",
+        "answer_2":   "contrary to",
+        "answer_3":   "because",
+        "answer_4":   "but",
+        "right_answer":   "because"
+    },
+    {
+        "title":  "It is a long time __________ we last saw her.",
+        "answer_1": "since",
+        "answer_2":   "when",
+        "answer_3":   "whether",
+        "answer_4":   "unless",
+        "right_answer":   "since"
+    },
+    {
+        "title":  "It was a terrible accident ___________ no one was hurt.",
+        "answer_1": "that",
+        "answer_2":   "but",
+        "answer_3":   "if",
+        "answer_4":   "before",
+        "right_answer":   "but"
+    },
+    {
+        "title":  "The drive _________ murder in the broad daylight was really surprising, how could theyescape?",
+        "answer_1": "and",
+        "answer_2":   "through",
+        "answer_3":   "over",
+        "answer_4":   "by",
+        "right_answer":   "and"
+    },
+    {
+        "title":  "He is faithful___his teacher",
+        "answer_1": "to",
+        "answer_2":   "at",
+        "answer_3":   "with",
+        "answer_4":   "on",
+        "right_answer":   "to"
+    },
+    {
+        "title":  " It was a boring class lecture and I simply dozed the hour __________",
+        "answer_1": "out",
+        "answer_2":   "off",
+        "answer_3":   "over",
+        "answer_4":   "away",
+        "right_answer":   "off"
+    },
+    {
+        "title":  "Doctor prescribed me the medicines which are____for curing cold.",
+        "answer_1": "real",
+        "answer_2":   "proper",
+        "answer_3":   "effective",
+        "answer_4":   "capable",
+        "right_answer":   "effective"
+    },
+    {
+        "title":  "When I heared of her brillinat success, I sent her my ______.",
+        "answer_1": "regards",
+        "answer_2":   "wishes",
+        "answer_3":   "condolences",
+        "answer_4":   "congratulations",
+        "right_answer":   "congratulations"
+    },
+    {
+        "title":  "Overhead briges are bult for the safety of ____________.",
+        "answer_1": "passangers",
+        "answer_2":   "motorists",
+        "answer_3":   "pedestrians",
+        "answer_4":   "cyclists",
+        "right_answer":   "pedestrians"
+    },
+    
+    {
+        "title":  "The boy was tired. He went to bed.",
+        "answer_1": "The boy was tired, but he went to bed.",
+        "answer_2":   "In spite of being tired, the boy went to bed.",
+        "answer_3":   "The boy was tired due to which he went to bed.",
+        "answer_4":   "The boy was tired, sadly he went to bed.",
+        "right_answer":   "The boy was tired due to which he went to bed."
+    },
+    {
+        "title":  "Rama is not clever. He is hardworking.",
+        "answer_1": "Rama is neither clever nor hardworking",
+        "answer_2":   "Rama may not be clever but he is certainly hardworking.",
+        "answer_3":   "Rama, being clever, is hardworking.",
+        "answer_4":   "Rama, though clever, is however hardworking.",
+        "right_answer":   "Rama may not be clever but he is certainly hardworking."
+    },
+    {
+        "title":  "Tigers won't attack ______ they are hungry",
+        "answer_1": "unless",
+        "answer_2":   "because",
+        "answer_3":   "although",
+        "answer_4":   "if",
+        "right_answer":   "if"
+    },
+    {
+        "title":  "It was getting dark __________ we went indorrs.",
+        "answer_1": "as",
+        "answer_2":   "so",
+        "answer_3":   "while",
+        "answer_4":   "as soon as",
+        "right_answer":   "while"
+    },
+    {
+        "title":  "Neither his sister _______ his mother met me.",
+        "answer_1": "non",
+        "answer_2":   "not",
+        "answer_3":   "or",
+        "answer_4":   "nor",
+        "right_answer":   "nor"
+    },
+    
+    {
+        "title":  "She had no other hobby ______ that of collecting flowers.",
+        "answer_1": "other",
+        "answer_2":   "rather",
+        "answer_3":   "than",
+        "answer_4":   "but",
+        "right_answer":   "than"
+    },
+    {
+        "title":  "A person who is disloyal to his country is called as ______.",
+        "answer_1": "hypocrite",
+        "answer_2":   "traitor",
+        "answer_3":   "patriot",
+        "answer_4":   "criminal",
+        "right_answer":   "traitor"
+    },
+    {
+        "title":  ". A person who examines tissues, bodily fluids, stool, urine and blood is known as as ______.",
+        "answer_1": "doctor",
+        "answer_2":   "pharmacist",
+        "answer_3":   "Pathologist",
+        "answer_4":   "nurse",
+        "right_answer":   "Pathologist"
+    },
+    
+    {
+        "title":  "His paintings shows that he is a great ______.",
+        "answer_1": "artisan",
+        "answer_2":   "artist",
+        "answer_3":   "carpenter",
+        "answer_4":   "art",
+        "right_answer":   "artist"
+    },
+    {
+        "title":  " I am ______ delighted to see you here.",
+        "answer_1": "very",
+        "answer_2":   "much",
+        "answer_3":   "too",
+        "answer_4":   "enough",
+        "right_answer":   "much"
+    },
+    {
+        "title":  " _____ three languages: French, Spanish, and English",
+        "answer_1": "I’m speak",
+        "answer_2":   "I’m speaking",
+        "answer_3":   "I speaking",
+        "answer_4":   "I speak",
+        "right_answer":   "I speak"
+    },
+        {
+        "title":  "Where _____ from?",
+        "answer_1": " Hans come",
+        "answer_2":   "does Hans come",
+        "answer_3":   "does Hans coming",
+        "answer_4":   "Hans came",
+        "right_answer":   "does Hans come"
+    },
+        {
+        "title":  "What _____ tonight?",
+        "answer_1": " do you do",
+        "answer_2":   "you do",
+        "answer_3":   "are you doing",
+        "answer_4":   "did you do",
+        "right_answer":   "are you doing"
+    },
+        {
+        "title":  "“Where is George” “He _____ a shower.”",
+        "answer_1": "has",
+        "answer_2":   "will have",
+        "answer_3":   "is having",
+        "answer_4":   "have",
+        "right_answer":   "is having"
+    },
+        {
+        "title":  "“What _____ ?” “I don’t know. Look it up.”",
+        "answer_1": "does this word mean",
+        "answer_2":   "means this word",
+        "answer_3":   "does mean this word",
+        "answer_4":   " is meaning this word",
+        "right_answer":   "does this word mean"
+    },
+        {
+        "title":  "“Do you want a cigarette?” “No, thanks. I _____ .”",
+        "answer_1": " no smoke",
+        "answer_2":   "smoke not",
+        "answer_3":   "am not smoking",
+        "answer_4":   "don’t smoke",
+        "right_answer":   "don’t smoke"
+    },
+        {
+        "title":  "Last year I _____ to America",
+        "answer_1": "was go",
+        "answer_2":   "go",
+        "answer_3":   "was going",
+        "answer_4":   "went",
+        "right_answer":   "went"
+    },
+        {
+        "title":  "How long _____ in America?",
+        "answer_1": "you stay",
+        "answer_2":   "did you stay",
+        "answer_3":   "stayed you",
+        "answer_4":   " you staying",
+        "right_answer":   "did you stay"
+    },
+        {
+        "title":  "The weekend was boring. I _____ anything",
+        "answer_1": "don’t do",
+        "answer_2":   "no do",
+        "answer_3":   "didn’t do",
+        "answer_4":   "wasn’t doing",
+        "right_answer":   "didn’t do"
+    },
+        {
+        "title":  "“I’m going to university next year” “What _____ study?”",
+        "answer_1": "you going to",
+        "answer_2":   "do you",
+        "answer_3":   "did you",
+        "answer_4":   "are you going to",
+        "right_answer":   "are you going to"
+    }
+    
+    
+]
